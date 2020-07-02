@@ -5,4 +5,3 @@ def change
   add_column :students, :birthdate, :string
   end
 end
-end
